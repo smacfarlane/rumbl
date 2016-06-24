@@ -10,9 +10,11 @@
       <div class="panel-heading">
         <h3 class="page-title">Annotations</h3>
       </div>
+      <div id="msg-container" class="panel-body annotations">
+      </div>
       <div class="panel-footer">
         <textarea id="msg-input" rows="3" class="form-control" placeholder="Comment..."></textarea>
-        <button class="btn btn-primary form-control" id="msg-submit"></button>
+        <button class="btn btn-primary form-control" id="msg-submit">Post</button>
       </div>
     </div>
   </div>
